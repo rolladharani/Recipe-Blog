@@ -172,43 +172,47 @@ recipe-blog
 
 #  Screenshots
 
-The following screenshots demonstrate the application features.
-
 ### Homepage (English)
 
-```
-Screenshots/HOME-EN.png
-```
+![Homepage English](Screenshots/HOME-EN.png)
+
+---
 
 ### Homepage (Spanish)
 
-```
-Screenshots/HOME-ES.png
-```
+![Homepage Spanish](Screenshots/HOME-ES.png)
+
+---
 
 ### Homepage (French)
 
-```
-Screenshots/HOME-FR.png
-```
+![Homepage French](Screenshots/HOME-FR.png)
+
+---
 
 ### Recipe Detail Page
 
-```
-Screenshots/Recipe-page.png
-```
+![Recipe Page](Screenshots/Recipe-page.png)
+
+---
 
 ### Search & Filtering
 
-```
-Screenshots/Search&Filtering.png
-```
+![Search Filtering](Screenshots/Search&Filtering.png)
+
+---
 
 ### Newsletter Validation
 
-```
-Screenshots/NewPaperValidation.png
-```
+![Newsletter Validation](Screenshots/NewPaperValidation.png)
+
+---
+
+# 🎥 Project Demo Video
+
+A short demonstration video explaining the project features.
+
+Demo Video: https://drive.google.com/file/d/1JJu9jJqRqoy8PK9zdoh3PxseMDFB1xWu/view?usp=sharing
 
 ---
 

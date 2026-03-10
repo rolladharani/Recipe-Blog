@@ -208,7 +208,7 @@ recipe-blog
 
 ---
 
-# 🎥 Project Demo Video
+#  Project Demo Video
 
 A short demonstration video explaining the project features.
 
